@@ -1,0 +1,17 @@
+#!/bin/bash
+
+rv=""
+
+e=""
+
+while [[ "$e" != "q" ]]
+
+do
+
+read e
+
+rv="$rv$e"
+
+done 
+
+echo "$rv"
