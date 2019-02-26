@@ -1,0 +1,566 @@
+Feb 26 16:25:34 kramer kernel: [93480.706655] ACPI: EC: interrupt blocked
+Feb 26 16:25:34 kramer kernel: [93480.746722] ACPI: Preparing to enter system sleep state S3
+Feb 26 16:25:34 kramer kernel: [93480.762243] ACPI: EC: event blocked
+Feb 26 16:25:34 kramer kernel: [93480.762244] ACPI: EC: EC stopped
+Feb 26 16:25:34 kramer kernel: [93480.830488] ACPI: Low-level resume complete
+Feb 26 16:25:34 kramer kernel: [93480.830601] ACPI: EC: EC started
+Feb 26 16:25:34 kramer kernel: [93480.839918] ACPI: Waking up from system sleep state S3
+Feb 26 16:25:34 kramer kernel: [93480.861608] ACPI: EC: interrupt unblocked
+Feb 26 16:25:34 kramer kernel: [93480.910713] ACPI: EC: event unblocked
+Feb 24 18:54:57 kramer kernel: [12571.884553] ACPI: EC: interrupt blocked
+Feb 24 18:54:57 kramer kernel: [12571.924433] ACPI: Preparing to enter system sleep state S3
+Feb 24 18:54:57 kramer kernel: [12571.939734] ACPI: EC: event blocked
+Feb 24 18:54:57 kramer kernel: [12571.939735] ACPI: EC: EC stopped
+Feb 24 18:54:57 kramer kernel: [12572.016483] ACPI: Low-level resume complete
+Feb 24 18:54:57 kramer kernel: [12572.016596] ACPI: EC: EC started
+Feb 24 18:54:57 kramer kernel: [12572.026019] ACPI: Waking up from system sleep state S3
+Feb 24 18:54:57 kramer kernel: [12572.048404] ACPI: EC: interrupt unblocked
+Feb 24 18:54:57 kramer kernel: [12572.093429] ACPI: EC: event unblocked
+Feb 25 09:09:29 kramer kernel: [36717.500653] ACPI: EC: interrupt blocked
+Feb 25 09:09:29 kramer kernel: [36717.540293] ACPI: Preparing to enter system sleep state S3
+Feb 25 09:09:29 kramer kernel: [36717.555741] ACPI: EC: event blocked
+Feb 25 09:09:29 kramer kernel: [36717.555741] ACPI: EC: EC stopped
+Feb 25 09:09:29 kramer kernel: [36717.624835] ACPI: Low-level resume complete
+Feb 25 09:09:29 kramer kernel: [36717.624948] ACPI: EC: EC started
+Feb 25 09:09:29 kramer kernel: [36717.634379] ACPI: Waking up from system sleep state S3
+Feb 25 09:09:29 kramer kernel: [36717.655974] ACPI: EC: interrupt unblocked
+Feb 25 09:09:29 kramer kernel: [36717.701786] ACPI: EC: event unblocked
+Feb 25 11:44:37 kramer kernel: [43566.226101] ACPI: EC: interrupt blocked
+Feb 25 11:44:37 kramer kernel: [43566.266229] ACPI: Preparing to enter system sleep state S3
+Feb 25 11:44:37 kramer kernel: [43566.280703] ACPI: EC: event blocked
+Feb 25 11:44:37 kramer kernel: [43566.280704] ACPI: EC: EC stopped
+Feb 25 11:44:37 kramer kernel: [43566.345967] ACPI: Low-level resume complete
+Feb 25 11:44:37 kramer kernel: [43566.346080] ACPI: EC: EC started
+Feb 25 11:44:37 kramer kernel: [43566.355370] ACPI: Waking up from system sleep state S3
+Feb 25 11:44:37 kramer kernel: [43566.377831] ACPI: EC: interrupt unblocked
+Feb 25 11:44:37 kramer kernel: [43566.423186] ACPI: EC: event unblocked
+Feb 25 14:41:03 kramer kernel: [48876.232974] ACPI: EC: interrupt blocked
+Feb 25 14:41:03 kramer kernel: [48876.273188] ACPI: Preparing to enter system sleep state S3
+Feb 25 14:41:03 kramer kernel: [48876.287867] ACPI: EC: event blocked
+Feb 25 14:41:03 kramer kernel: [48876.287868] ACPI: EC: EC stopped
+Feb 25 14:41:03 kramer kernel: [48876.353455] ACPI: Low-level resume complete
+Feb 25 14:41:03 kramer kernel: [48876.353568] ACPI: EC: EC started
+Feb 25 14:41:03 kramer kernel: [48876.362884] ACPI: Waking up from system sleep state S3
+Feb 25 14:41:03 kramer kernel: [48876.384305] ACPI: EC: interrupt unblocked
+Feb 25 14:41:03 kramer kernel: [48876.430950] ACPI: EC: event unblocked
+Feb 25 21:14:19 kramer kernel: [71327.742747] ACPI: EC: interrupt blocked
+Feb 25 21:14:19 kramer kernel: [71327.782564] ACPI: Preparing to enter system sleep state S3
+Feb 25 21:14:19 kramer kernel: [71327.797485] ACPI: EC: event blocked
+Feb 25 21:14:19 kramer kernel: [71327.797486] ACPI: EC: EC stopped
+Feb 25 21:14:19 kramer kernel: [71327.867106] ACPI: Low-level resume complete
+Feb 25 21:14:19 kramer kernel: [71327.867219] ACPI: EC: EC started
+Feb 25 21:14:19 kramer kernel: [71327.876680] ACPI: Waking up from system sleep state S3
+Feb 25 21:14:19 kramer kernel: [71327.898274] ACPI: EC: interrupt unblocked
+Feb 25 21:14:19 kramer kernel: [71327.944131] ACPI: EC: event unblocked
+Feb 26 13:53:41 kramer kernel: [88309.969043] ACPI: EC: interrupt blocked
+Feb 26 13:53:41 kramer kernel: [88310.009006] ACPI: Preparing to enter system sleep state S3
+Feb 26 13:53:41 kramer kernel: [88310.023977] ACPI: EC: event blocked
+Feb 26 13:53:41 kramer kernel: [88310.023978] ACPI: EC: EC stopped
+Feb 26 13:53:41 kramer kernel: [88310.101451] ACPI: Low-level resume complete
+Feb 26 13:53:41 kramer kernel: [88310.101565] ACPI: EC: EC started
+Feb 26 13:53:41 kramer kernel: [88310.110921] ACPI: Waking up from system sleep state S3
+Feb 26 13:53:41 kramer kernel: [88310.132522] ACPI: EC: interrupt unblocked
+Feb 26 13:53:41 kramer kernel: [88310.181748] ACPI: EC: event unblocked
+Feb 26 16:25:34 kramer kernel: [93480.706655] ACPI: EC: interrupt blocked
+Feb 26 16:25:34 kramer kernel: [93480.746722] ACPI: Preparing to enter system sleep state S3
+Feb 26 16:25:34 kramer kernel: [93480.762243] ACPI: EC: event blocked
+Feb 26 16:25:34 kramer kernel: [93480.762244] ACPI: EC: EC stopped
+Feb 26 16:25:34 kramer kernel: [93480.830488] ACPI: Low-level resume complete
+Feb 26 16:25:34 kramer kernel: [93480.830601] ACPI: EC: EC started
+Feb 26 16:25:34 kramer kernel: [93480.839918] ACPI: Waking up from system sleep state S3
+Feb 26 16:25:34 kramer kernel: [93480.861608] ACPI: EC: interrupt unblocked
+Feb 26 16:25:34 kramer kernel: [93480.910713] ACPI: EC: event unblocked
+Feb 25 11:44:37 kramer kernel: [43566.226101] ACPI: EC: interrupt blocked
+Feb 25 11:44:37 kramer kernel: [43566.266229] ACPI: Preparing to enter system sleep state S3
+Feb 25 11:44:37 kramer kernel: [43566.280703] ACPI: EC: event blocked
+Feb 25 11:44:37 kramer kernel: [43566.280704] ACPI: EC: EC stopped
+Feb 25 11:44:37 kramer kernel: [43566.345967] ACPI: Low-level resume complete
+Feb 25 11:44:37 kramer kernel: [43566.346080] ACPI: EC: EC started
+Feb 25 11:44:37 kramer kernel: [43566.355370] ACPI: Waking up from system sleep state S3
+Feb 25 11:44:37 kramer kernel: [43566.377831] ACPI: EC: interrupt unblocked
+Feb 25 11:44:37 kramer kernel: [43566.423186] ACPI: EC: event unblocked
+Feb 25 14:41:03 kramer kernel: [48876.232974] ACPI: EC: interrupt blocked
+Feb 25 14:41:03 kramer kernel: [48876.273188] ACPI: Preparing to enter system sleep state S3
+Feb 25 14:41:03 kramer kernel: [48876.287867] ACPI: EC: event blocked
+Feb 25 14:41:03 kramer kernel: [48876.287868] ACPI: EC: EC stopped
+Feb 25 14:41:03 kramer kernel: [48876.353455] ACPI: Low-level resume complete
+Feb 25 14:41:03 kramer kernel: [48876.353568] ACPI: EC: EC started
+Feb 25 14:41:03 kramer kernel: [48876.362884] ACPI: Waking up from system sleep state S3
+Feb 25 14:41:03 kramer kernel: [48876.384305] ACPI: EC: interrupt unblocked
+Feb 25 14:41:03 kramer kernel: [48876.430950] ACPI: EC: event unblocked
+Feb 25 21:14:19 kramer kernel: [71327.742747] ACPI: EC: interrupt blocked
+Feb 25 21:14:19 kramer kernel: [71327.782564] ACPI: Preparing to enter system sleep state S3
+Feb 25 21:14:19 kramer kernel: [71327.797485] ACPI: EC: event blocked
+Feb 25 21:14:19 kramer kernel: [71327.797486] ACPI: EC: EC stopped
+Feb 25 21:14:19 kramer kernel: [71327.867106] ACPI: Low-level resume complete
+Feb 25 21:14:19 kramer kernel: [71327.867219] ACPI: EC: EC started
+Feb 25 21:14:19 kramer kernel: [71327.876680] ACPI: Waking up from system sleep state S3
+Feb 25 21:14:19 kramer kernel: [71327.898274] ACPI: EC: interrupt unblocked
+Feb 25 21:14:19 kramer kernel: [71327.944131] ACPI: EC: event unblocked
+Feb 26 13:53:41 kramer kernel: [88309.969043] ACPI: EC: interrupt blocked
+Feb 26 13:53:41 kramer kernel: [88310.009006] ACPI: Preparing to enter system sleep state S3
+Feb 26 13:53:41 kramer kernel: [88310.023977] ACPI: EC: event blocked
+Feb 26 13:53:41 kramer kernel: [88310.023978] ACPI: EC: EC stopped
+Feb 26 13:53:41 kramer kernel: [88310.101451] ACPI: Low-level resume complete
+Feb 26 13:53:41 kramer kernel: [88310.101565] ACPI: EC: EC started
+Feb 26 13:53:41 kramer kernel: [88310.110921] ACPI: Waking up from system sleep state S3
+Feb 26 13:53:41 kramer kernel: [88310.132522] ACPI: EC: interrupt unblocked
+Feb 26 13:53:41 kramer kernel: [88310.181748] ACPI: EC: event unblocked
+Feb 18 11:48:17 kramer kernel: [153786.979940] ACPI: EC: interrupt blocked
+Feb 18 11:48:17 kramer kernel: [153787.019157] ACPI: Preparing to enter system sleep state S3
+Feb 18 11:48:17 kramer kernel: [153787.034351] ACPI: EC: event blocked
+Feb 18 11:48:17 kramer kernel: [153787.034352] ACPI: EC: EC stopped
+Feb 18 11:48:17 kramer kernel: [153787.103098] ACPI: Low-level resume complete
+Feb 18 11:48:17 kramer kernel: [153787.103212] ACPI: EC: EC started
+Feb 18 11:48:17 kramer kernel: [153787.112507] ACPI: Waking up from system sleep state S3
+Feb 18 11:48:17 kramer kernel: [153787.135337] ACPI: EC: interrupt unblocked
+Feb 18 11:48:17 kramer kernel: [153787.183403] ACPI: EC: event unblocked
+Feb 18 12:35:27 kramer kernel: [156485.509865] ACPI: EC: interrupt blocked
+Feb 18 12:35:27 kramer kernel: [156485.549836] ACPI: Preparing to enter system sleep state S3
+Feb 18 12:35:27 kramer kernel: [156485.564325] ACPI: EC: event blocked
+Feb 18 12:35:27 kramer kernel: [156485.564325] ACPI: EC: EC stopped
+Feb 18 12:35:27 kramer kernel: [156485.630099] ACPI: Low-level resume complete
+Feb 18 12:35:27 kramer kernel: [156485.630213] ACPI: EC: EC started
+Feb 18 12:35:27 kramer kernel: [156485.639556] ACPI: Waking up from system sleep state S3
+Feb 18 12:35:27 kramer kernel: [156485.661531] ACPI: EC: interrupt unblocked
+Feb 18 12:35:27 kramer kernel: [156485.714416] ACPI: EC: event unblocked
+Feb 18 14:14:28 kramer kernel: [158672.431340] ACPI: EC: interrupt blocked
+Feb 18 14:14:28 kramer kernel: [158672.471523] ACPI: Preparing to enter system sleep state S3
+Feb 18 14:14:28 kramer kernel: [158672.486852] ACPI: EC: event blocked
+Feb 18 14:14:28 kramer kernel: [158672.486852] ACPI: EC: EC stopped
+Feb 18 14:14:28 kramer kernel: [158672.555344] ACPI: Low-level resume complete
+Feb 18 14:14:28 kramer kernel: [158672.555458] ACPI: EC: EC started
+Feb 18 14:14:28 kramer kernel: [158672.564717] ACPI: Waking up from system sleep state S3
+Feb 18 14:14:28 kramer kernel: [158672.586891] ACPI: EC: interrupt unblocked
+Feb 18 14:14:28 kramer kernel: [158672.635561] ACPI: EC: event unblocked
+Feb 18 19:52:37 kramer kernel: [164658.653382] ACPI: EC: interrupt blocked
+Feb 18 19:52:37 kramer kernel: [164658.693236] ACPI: Preparing to enter system sleep state S3
+Feb 18 19:52:37 kramer kernel: [164658.707846] ACPI: EC: event blocked
+Feb 18 19:52:37 kramer kernel: [164658.707846] ACPI: EC: EC stopped
+Feb 18 19:52:37 kramer kernel: [164658.781123] ACPI: Low-level resume complete
+Feb 18 19:52:37 kramer kernel: [164658.781237] ACPI: EC: EC started
+Feb 18 19:52:37 kramer kernel: [164658.790501] ACPI: Waking up from system sleep state S3
+Feb 18 19:52:37 kramer kernel: [164658.812026] ACPI: EC: interrupt unblocked
+Feb 18 19:52:37 kramer kernel: [164658.858322] ACPI: EC: event unblocked
+Feb 19 13:27:57 kramer kernel: [186920.453015] ACPI: EC: interrupt blocked
+Feb 19 13:27:57 kramer kernel: [186920.492999] ACPI: Preparing to enter system sleep state S3
+Feb 19 13:27:57 kramer kernel: [186920.507685] ACPI: EC: event blocked
+Feb 19 13:27:57 kramer kernel: [186920.507685] ACPI: EC: EC stopped
+Feb 19 13:27:57 kramer kernel: [186920.572602] ACPI: Low-level resume complete
+Feb 19 13:27:57 kramer kernel: [186920.572715] ACPI: EC: EC started
+Feb 19 13:27:57 kramer kernel: [186920.582001] ACPI: Waking up from system sleep state S3
+Feb 19 13:27:57 kramer kernel: [186920.603826] ACPI: EC: interrupt unblocked
+Feb 19 13:27:57 kramer kernel: [186920.653445] ACPI: EC: event unblocked
+Feb 19 14:10:35 kramer kernel: [    0.000000] BIOS-e820: [mem 0x00000000688c7000-0x00000000688c7fff] ACPI NVS
+Feb 19 14:10:35 kramer kernel: [    0.000000] BIOS-e820: [mem 0x0000000076585000-0x000000007711ffff] ACPI NVS
+Feb 19 14:10:35 kramer kernel: [    0.000000] reserve setup_data: [mem 0x00000000688c7000-0x00000000688c7fff] ACPI NVS
+Feb 19 14:10:35 kramer kernel: [    0.000000] reserve setup_data: [mem 0x0000000076585000-0x000000007711ffff] ACPI NVS
+Feb 19 14:10:35 kramer kernel: [    0.000000] efi:  ESRT=0x77ec7e18  ACPI=0x76689000  ACPI 2.0=0x76689000  SMBIOS=0x776e1000  SMBIOS 3.0=0x776e0000 
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: RSDP 0x0000000076689000 000024 (v02 _ASUS_)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: XSDT 0x00000000766890B0 0000E4 (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: FACP 0x00000000766ADF68 00010C (v05 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: DSDT 0x0000000076689228 024D3F (v02 _ASUS_ Notebook 01072009 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: FACS 0x000000007711EF80 000040
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: APIC 0x00000000766AE078 000084 (v03 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: FPDT 0x00000000766AE100 000044 (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: FIDT 0x00000000766AE148 00009C (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: MCFG 0x00000000766AE1E8 00003C (v01 _ASUS_ Notebook 01072009 MSFT 00000097)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: HPET 0x00000000766AE228 000038 (v01 _ASUS_ Notebook 01072009 AMI. 0005000B)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766AE260 000315 (v01 SataRe SataTabl 00001000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: ECDT 0x00000000766AE578 0000C1 (v01 _ASUS_ Notebook 01072009 AMI. 00000005)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: LPIT 0x00000000766AE640 000094 (v01 INTEL  SKL-ULT  00000000 MSFT 0000005F)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766AE6D8 000248 (v02 INTEL  sensrhub 00000000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: DBGP 0x00000000766AE920 000034 (v01 INTEL           00000000 MSFT 0000005F)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: DBG2 0x00000000766AE958 000054 (v00 INTEL           00000000 MSFT 0000005F)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766AE9B0 003D5F (v02 DptfTa DptfTabl 00001000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B2710 005882 (v02 SaSsdt SaSsdt   00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: UEFI 0x00000000766B7F98 000042 (v01                 00000000      00000000)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B7FE0 000E58 (v02 CpuRef CpuSsdt  00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: BGRT 0x00000000766B8E38 000038 (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B8E70 0007B3 (v02 SgRef  SgPch    00001000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: DMAR 0x00000000766B9628 0000F0 (v01 INTEL  SKL      00000001 INTL 00000001)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: UEFI 0x00000000766B9718 00063A (v01 INTEL  RstSataE 00000000 ??   00000000)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: UEFI 0x00000000766B9D58 00005C (v01 INTEL  RstSataV 00000000 ??   00000000)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: TPM2 0x00000000766B9DB8 000034 (v03        Tpm2Tabl 00000001 AMI  00000000)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B9DF0 001A7D (v01 OptRef OptTabl  00001000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: MSDM 0x0000000075CAAF18 000055 (v03 _ASUS_ Notebook 00000000 ASUS 00000001)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: IRQ0 used by override.
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: IRQ9 used by override.
+Feb 19 14:10:35 kramer kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: HPET id: 0x8086a701 base: 0xfed00000
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: Core revision 20170831
+Feb 19 14:10:35 kramer kernel: [    0.000000] ACPI: 8 ACPI AML tables successfully acquired and loaded
+Feb 19 14:10:35 kramer kernel: [    0.044534] PM: Registering ACPI NVS region [mem 0x688c7000-0x688c7fff] (4096 bytes)
+Feb 19 14:10:35 kramer kernel: [    0.044534] PM: Registering ACPI NVS region [mem 0x76585000-0x7711ffff] (12169216 bytes)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: bus type PCI registered
+Feb 19 14:10:35 kramer kernel: [    0.045288] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(Module Device)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(Processor Device)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(3.0 _SCP Extensions)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(Processor Aggregator Device)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(Linux-Dell-Video)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: EC: EC started
+Feb 19 14:10:35 kramer kernel: [    0.045288] ACPI: EC: interrupt blocked
+Feb 19 14:10:35 kramer kernel: [    0.048002] ACPI: \: Used as first EC
+Feb 19 14:10:35 kramer kernel: [    0.048002] ACPI: \: GPE=0x50, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Feb 19 14:10:35 kramer kernel: [    0.048002] ACPI: \: Used as boot ECDT EC to handle transactions
+Feb 19 14:10:35 kramer kernel: [    0.048323] ACPI Error: [_SB_.PCI0.RP01.PXSX] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Feb 19 14:10:35 kramer kernel: [    0.048323] ACPI Error: Method parse/execution failed \, AE_NOT_FOUND (20170831/psparse-550)
+Feb 19 14:10:35 kramer kernel: [    0.048323] ACPI: Executed 22 blocks of module-level executable AML code
+Feb 19 14:10:35 kramer kernel: [    0.063922] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Feb 19 14:10:35 kramer kernel: [    0.078245] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.078251] ACPI: SSDT 0xFFFF9F9DBBEE4800 00061E (v02 PmRef  Cpu0Ist  00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.078726] ACPI: \_PR_.CPU0: _OSC native thermal LVT Acked
+Feb 19 14:10:35 kramer kernel: [    0.080298] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.080303] ACPI: SSDT 0xFFFF9F9DBB952000 00037F (v02 PmRef  Cpu0Cst  00003001 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.080724] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.080728] ACPI: SSDT 0xFFFF9F9DBD14E480 00008E (v02 PmRef  Cpu0Hwp  00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.081045] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.081049] ACPI: SSDT 0xFFFF9F9DBB945C00 000130 (v02 PmRef  HwpLvt   00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.082186] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.082192] ACPI: SSDT 0xFFFF9F9DBBEE5800 0005AA (v02 PmRef  ApIst    00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.082930] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.082934] ACPI: SSDT 0xFFFF9F9DBB944800 000119 (v02 PmRef  ApHwp    00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.083357] ACPI: Dynamic OEM Table Load:
+Feb 19 14:10:35 kramer kernel: [    0.083361] ACPI: SSDT 0xFFFF9F9DBB944200 000119 (v02 PmRef  ApCst    00003000 INTL 20120913)
+Feb 19 14:10:35 kramer kernel: [    0.085794] ACPI: Interpreter enabled
+Feb 19 14:10:35 kramer kernel: [    0.085834] ACPI: (supports S0 S3 S4 S5)
+Feb 19 14:10:35 kramer kernel: [    0.085835] ACPI: Using IOAPIC for interrupt routing
+Feb 19 14:10:35 kramer kernel: [    0.085873] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Feb 19 14:10:35 kramer kernel: [    0.086579] ACPI: Enabled 7 GPEs in block 00 to 7F
+Feb 19 14:10:35 kramer kernel: [    0.089944] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.090131] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.090316] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.090496] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.090685] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.090743] ACPI: Power Resource [PC09] (on)
+Feb 19 14:10:35 kramer kernel: [    0.091846] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.092030] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.092215] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.092398] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.092637] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.092854] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.093034] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.093213] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.093392] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.093572] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.093751] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.093931] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.094112] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.094290] ACPI: Power Resource [WRST] (off)
+Feb 19 14:10:35 kramer kernel: [    0.108205] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Feb 19 14:10:35 kramer kernel: [    0.143081] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143157] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 *10 11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143231] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143305] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143379] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143452] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143526] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.143602] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 19 14:10:35 kramer kernel: [    0.144464] ACPI: EC: interrupt unblocked
+Feb 19 14:10:35 kramer kernel: [    0.144479] ACPI: EC: event unblocked
+Feb 19 14:10:35 kramer kernel: [    0.144491] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x50, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Feb 19 14:10:35 kramer kernel: [    0.144492] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Feb 19 14:10:35 kramer kernel: [    0.144733] ACPI: bus type USB registered
+Feb 19 14:10:35 kramer kernel: [    0.148026] PCI: Using ACPI for IRQ routing
+Feb 19 14:10:35 kramer kernel: [    0.185965] pnp: PnP ACPI init
+Feb 19 14:10:35 kramer kernel: [    0.186406] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.186507] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Feb 19 14:10:35 kramer kernel: [    0.186548] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.186692] system 00:03: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.186732] pnp 00:04: Plug and Play ACPI device, IDs ATK3001 PNP030b (active)
+Feb 19 14:10:35 kramer kernel: [    0.186947] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.187009] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.187349] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.188754] system 00:08: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 19 14:10:35 kramer kernel: [    0.189798] pnp: PnP ACPI: found 9 devices
+Feb 19 14:10:35 kramer kernel: [    0.894294] DMAR: ACPI device "device:6b" under DMAR at fed91000 as 00:15.0
+Feb 19 14:10:35 kramer kernel: [    0.894297] DMAR: ACPI device "device:6c" under DMAR at fed91000 as 00:15.1
+Feb 19 14:10:35 kramer kernel: [    0.901321] ACPI: AC Adapter [AC0] (on-line)
+Feb 19 14:10:35 kramer kernel: [    0.901387] ACPI: Lid Switch [LID]
+Feb 19 14:10:35 kramer kernel: [    0.901461] ACPI: Sleep Button [SLPB]
+Feb 19 14:10:35 kramer kernel: [    0.901527] ACPI: Power Button [PWRF]
+Feb 19 14:10:35 kramer kernel: [    0.903366] ACPI: Thermal Zone [THRM] (48 C)
+Feb 19 14:10:35 kramer kernel: [    0.911048] tpm_crb MSFT0101:00: [Firmware Bug]: ACPI region does not cover the entire command/response buffer. [mem 0xfed40000-0xfed4087f flags 0x200] vs fed40080 f80
+Feb 19 14:10:35 kramer kernel: [    0.911055] tpm_crb MSFT0101:00: [Firmware Bug]: ACPI region does not cover the entire command/response buffer. [mem 0xfed40000-0xfed4087f flags 0x200] vs fed40080 f80
+Feb 19 14:10:35 kramer kernel: [    0.915353] ACPI: Battery Slot [BAT0] (battery present)
+Feb 19 14:10:35 kramer kernel: [    1.228515] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Feb 19 14:10:35 kramer kernel: [    1.228632] ACPI Warning: \_SB.PCI0.RP01.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Feb 19 14:10:35 kramer kernel: [    1.282627] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Feb 19 14:10:35 kramer kernel: [    1.291706] ACPI: Video Device [PEGP] (multi-head: no  rom: yes  post: no)
+Feb 19 16:46:23 kramer kernel: [ 4092.075733] ACPI: EC: interrupt blocked
+Feb 19 16:46:23 kramer kernel: [ 4092.115587] ACPI: Preparing to enter system sleep state S3
+Feb 19 16:46:23 kramer kernel: [ 4092.130658] ACPI: EC: event blocked
+Feb 19 16:46:23 kramer kernel: [ 4092.130658] ACPI: EC: EC stopped
+Feb 19 16:46:23 kramer kernel: [ 4092.199581] ACPI: Low-level resume complete
+Feb 19 16:46:23 kramer kernel: [ 4092.199692] ACPI: EC: EC started
+Feb 19 16:46:23 kramer kernel: [ 4092.208929] ACPI: Waking up from system sleep state S3
+Feb 19 16:46:23 kramer kernel: [ 4092.230589] ACPI: EC: interrupt unblocked
+Feb 19 16:46:23 kramer kernel: [ 4092.279896] ACPI: EC: event unblocked
+Feb 19 16:46:23 kramer kernel: [ 4092.282295] ACPI: button: The lid device is not compliant to SW_LID.
+Feb 19 20:07:56 kramer kernel: [ 9615.849094] ACPI: EC: interrupt blocked
+Feb 19 20:07:56 kramer kernel: [ 9615.889186] ACPI: Preparing to enter system sleep state S3
+Feb 19 20:07:56 kramer kernel: [ 9615.904229] ACPI: EC: event blocked
+Feb 19 20:07:56 kramer kernel: [ 9615.904229] ACPI: EC: EC stopped
+Feb 19 20:07:56 kramer kernel: [ 9615.973285] ACPI: Low-level resume complete
+Feb 19 20:07:56 kramer kernel: [ 9615.973396] ACPI: EC: EC started
+Feb 19 20:07:56 kramer kernel: [ 9615.982643] ACPI: Waking up from system sleep state S3
+Feb 19 20:07:56 kramer kernel: [ 9616.004977] ACPI: EC: interrupt unblocked
+Feb 19 20:07:56 kramer kernel: [ 9616.050204] ACPI: EC: event unblocked
+Feb 20 10:16:32 kramer kernel: [36445.646071] ACPI: EC: interrupt blocked
+Feb 20 10:16:32 kramer kernel: [36445.685297] ACPI: Preparing to enter system sleep state S3
+Feb 20 10:16:32 kramer kernel: [36445.700226] ACPI: EC: event blocked
+Feb 20 10:16:32 kramer kernel: [36445.700226] ACPI: EC: EC stopped
+Feb 20 10:16:32 kramer kernel: [36445.769699] ACPI: Low-level resume complete
+Feb 20 10:16:32 kramer kernel: [36445.769810] ACPI: EC: EC started
+Feb 20 10:16:32 kramer kernel: [36445.779162] ACPI: Waking up from system sleep state S3
+Feb 20 10:16:32 kramer kernel: [36445.801609] ACPI: EC: interrupt unblocked
+Feb 20 10:16:32 kramer kernel: [36445.850185] ACPI: EC: event unblocked
+Feb 20 11:59:22 kramer kernel: [40931.932807] ACPI: EC: interrupt blocked
+Feb 20 11:59:22 kramer kernel: [40931.972870] ACPI: Preparing to enter system sleep state S3
+Feb 20 11:59:22 kramer kernel: [40931.988291] ACPI: EC: event blocked
+Feb 20 11:59:22 kramer kernel: [40931.988292] ACPI: EC: EC stopped
+Feb 20 11:59:22 kramer kernel: [40932.056826] ACPI: Low-level resume complete
+Feb 20 11:59:22 kramer kernel: [40932.056938] ACPI: EC: EC started
+Feb 20 11:59:22 kramer kernel: [40932.066157] ACPI: Waking up from system sleep state S3
+Feb 20 11:59:22 kramer kernel: [40932.087951] ACPI: EC: interrupt unblocked
+Feb 20 11:59:22 kramer kernel: [40932.137101] ACPI: EC: event unblocked
+Feb 20 23:53:32 kramer kernel: [43648.412178] ACPI: EC: interrupt blocked
+Feb 20 23:53:32 kramer kernel: [43648.451948] ACPI: Preparing to enter system sleep state S3
+Feb 20 23:53:32 kramer kernel: [43648.467774] ACPI: EC: event blocked
+Feb 20 23:53:32 kramer kernel: [43648.467774] ACPI: EC: EC stopped
+Feb 20 23:53:32 kramer kernel: [43648.536785] ACPI: Low-level resume complete
+Feb 20 23:53:32 kramer kernel: [43648.536897] ACPI: EC: EC started
+Feb 20 23:53:32 kramer kernel: [43648.546139] ACPI: Waking up from system sleep state S3
+Feb 20 23:53:32 kramer kernel: [43648.567932] ACPI: EC: interrupt unblocked
+Feb 20 23:53:32 kramer kernel: [43648.613415] ACPI: EC: event unblocked
+Feb 21 15:47:25 kramer kernel: [61709.059960] ACPI: EC: interrupt blocked
+Feb 21 15:47:25 kramer kernel: [61709.099283] ACPI: Preparing to enter system sleep state S3
+Feb 21 15:47:25 kramer kernel: [61709.114025] ACPI: EC: event blocked
+Feb 21 15:47:25 kramer kernel: [61709.114025] ACPI: EC: EC stopped
+Feb 21 15:47:25 kramer kernel: [61709.183626] ACPI: Low-level resume complete
+Feb 21 15:47:25 kramer kernel: [61709.183738] ACPI: EC: EC started
+Feb 21 15:47:25 kramer kernel: [61709.192980] ACPI: Waking up from system sleep state S3
+Feb 21 15:47:25 kramer kernel: [61709.215477] ACPI: EC: interrupt unblocked
+Feb 21 15:47:25 kramer kernel: [61709.260540] ACPI: EC: event unblocked
+Feb 21 18:26:18 kramer kernel: [67215.220682] ACPI: EC: interrupt blocked
+Feb 21 18:26:18 kramer kernel: [67215.260648] ACPI: Preparing to enter system sleep state S3
+Feb 21 18:26:18 kramer kernel: [67215.275867] ACPI: EC: event blocked
+Feb 21 18:26:18 kramer kernel: [67215.275867] ACPI: EC: EC stopped
+Feb 21 18:26:18 kramer kernel: [67215.344557] ACPI: Low-level resume complete
+Feb 21 18:26:18 kramer kernel: [67215.344668] ACPI: EC: EC started
+Feb 21 18:26:18 kramer kernel: [67215.353910] ACPI: Waking up from system sleep state S3
+Feb 21 18:26:18 kramer kernel: [67215.376138] ACPI: EC: interrupt unblocked
+Feb 21 18:26:18 kramer kernel: [67215.425226] ACPI: EC: event unblocked
+Feb 21 20:51:44 kramer kernel: [74808.300540] ACPI: EC: interrupt blocked
+Feb 21 20:51:44 kramer kernel: [74808.340266] ACPI: Preparing to enter system sleep state S3
+Feb 21 20:51:44 kramer kernel: [74808.355456] ACPI: EC: event blocked
+Feb 21 20:51:44 kramer kernel: [74808.355457] ACPI: EC: EC stopped
+Feb 21 20:51:44 kramer kernel: [74808.424786] ACPI: Low-level resume complete
+Feb 21 20:51:44 kramer kernel: [74808.424897] ACPI: EC: EC started
+Feb 21 20:51:44 kramer kernel: [74808.434130] ACPI: Waking up from system sleep state S3
+Feb 21 20:51:44 kramer kernel: [74808.455530] ACPI: EC: interrupt unblocked
+Feb 21 20:51:44 kramer kernel: [74808.501712] ACPI: EC: event unblocked
+Feb 22 17:45:47 kramer kernel: [95380.189452] ACPI: EC: interrupt blocked
+Feb 22 17:45:47 kramer kernel: [95380.229100] ACPI: Preparing to enter system sleep state S3
+Feb 22 17:45:47 kramer kernel: [95380.244134] ACPI: EC: event blocked
+Feb 22 17:45:47 kramer kernel: [95380.244134] ACPI: EC: EC stopped
+Feb 22 17:45:47 kramer kernel: [95380.304928] ACPI: Low-level resume complete
+Feb 22 17:45:47 kramer kernel: [95380.305039] ACPI: EC: EC started
+Feb 22 17:45:47 kramer kernel: [95380.314308] ACPI: Waking up from system sleep state S3
+Feb 22 17:45:47 kramer kernel: [95380.336370] ACPI: EC: interrupt unblocked
+Feb 22 17:45:47 kramer kernel: [95380.382142] ACPI: EC: event unblocked
+Feb 22 21:20:47 kramer kernel: [107323.612757] ACPI: EC: interrupt blocked
+Feb 22 21:20:47 kramer kernel: [107323.652737] ACPI: Preparing to enter system sleep state S3
+Feb 22 21:20:47 kramer kernel: [107323.667209] ACPI: EC: event blocked
+Feb 22 21:20:47 kramer kernel: [107323.667209] ACPI: EC: EC stopped
+Feb 22 21:20:47 kramer kernel: [107323.732692] ACPI: Low-level resume complete
+Feb 22 21:20:47 kramer kernel: [107323.732803] ACPI: EC: EC started
+Feb 22 21:20:47 kramer kernel: [107323.742018] ACPI: Waking up from system sleep state S3
+Feb 22 21:20:47 kramer kernel: [107323.763846] ACPI: EC: interrupt unblocked
+Feb 22 21:20:47 kramer kernel: [107323.809943] ACPI: EC: event unblocked
+Feb 23 11:09:52 kramer kernel: [123283.911286] ACPI: EC: interrupt blocked
+Feb 23 11:09:52 kramer kernel: [123283.951411] ACPI: Preparing to enter system sleep state S3
+Feb 23 11:09:52 kramer kernel: [123283.966006] ACPI: EC: event blocked
+Feb 23 11:09:52 kramer kernel: [123283.966007] ACPI: EC: EC stopped
+Feb 23 11:09:52 kramer kernel: [123284.031336] ACPI: Low-level resume complete
+Feb 23 11:09:52 kramer kernel: [123284.031447] ACPI: EC: EC started
+Feb 23 11:09:52 kramer kernel: [123284.040682] ACPI: Waking up from system sleep state S3
+Feb 23 11:09:52 kramer kernel: [123284.063403] ACPI: EC: interrupt unblocked
+Feb 23 11:09:52 kramer kernel: [123284.108421] ACPI: EC: event unblocked
+Feb 23 23:29:28 kramer kernel: [    0.000000] BIOS-e820: [mem 0x00000000688c7000-0x00000000688c7fff] ACPI NVS
+Feb 23 23:29:28 kramer kernel: [    0.000000] BIOS-e820: [mem 0x0000000076585000-0x000000007711ffff] ACPI NVS
+Feb 23 23:29:28 kramer kernel: [    0.000000] reserve setup_data: [mem 0x00000000688c7000-0x00000000688c7fff] ACPI NVS
+Feb 23 23:29:28 kramer kernel: [    0.000000] reserve setup_data: [mem 0x0000000076585000-0x000000007711ffff] ACPI NVS
+Feb 23 23:29:28 kramer kernel: [    0.000000] efi:  ESRT=0x77ec7e18  ACPI=0x76689000  ACPI 2.0=0x76689000  SMBIOS=0x776e1000  SMBIOS 3.0=0x776e0000 
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: RSDP 0x0000000076689000 000024 (v02 _ASUS_)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: XSDT 0x00000000766890B0 0000E4 (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: FACP 0x00000000766ADF68 00010C (v05 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: DSDT 0x0000000076689228 024D3F (v02 _ASUS_ Notebook 01072009 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: FACS 0x000000007711EF80 000040
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: APIC 0x00000000766AE078 000084 (v03 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: FPDT 0x00000000766AE100 000044 (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: FIDT 0x00000000766AE148 00009C (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: MCFG 0x00000000766AE1E8 00003C (v01 _ASUS_ Notebook 01072009 MSFT 00000097)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: HPET 0x00000000766AE228 000038 (v01 _ASUS_ Notebook 01072009 AMI. 0005000B)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766AE260 000315 (v01 SataRe SataTabl 00001000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: ECDT 0x00000000766AE578 0000C1 (v01 _ASUS_ Notebook 01072009 AMI. 00000005)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: LPIT 0x00000000766AE640 000094 (v01 INTEL  SKL-ULT  00000000 MSFT 0000005F)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766AE6D8 000248 (v02 INTEL  sensrhub 00000000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: DBGP 0x00000000766AE920 000034 (v01 INTEL           00000000 MSFT 0000005F)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: DBG2 0x00000000766AE958 000054 (v00 INTEL           00000000 MSFT 0000005F)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766AE9B0 003D5F (v02 DptfTa DptfTabl 00001000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B2710 005882 (v02 SaSsdt SaSsdt   00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: UEFI 0x00000000766B7F98 000042 (v01                 00000000      00000000)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B7FE0 000E58 (v02 CpuRef CpuSsdt  00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: BGRT 0x00000000766B8E38 000038 (v01 _ASUS_ Notebook 01072009 AMI  00010013)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B8E70 0007B3 (v02 SgRef  SgPch    00001000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: DMAR 0x00000000766B9628 0000F0 (v01 INTEL  SKL      00000001 INTL 00000001)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: UEFI 0x00000000766B9718 00063A (v01 INTEL  RstSataE 00000000 ??   00000000)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: UEFI 0x00000000766B9D58 00005C (v01 INTEL  RstSataV 00000000 ??   00000000)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: TPM2 0x00000000766B9DB8 000034 (v03        Tpm2Tabl 00000001 AMI  00000000)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: SSDT 0x00000000766B9DF0 001A7D (v01 OptRef OptTabl  00001000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: MSDM 0x0000000075CAAF18 000055 (v03 _ASUS_ Notebook 00000000 ASUS 00000001)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: IRQ0 used by override.
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: IRQ9 used by override.
+Feb 23 23:29:28 kramer kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: HPET id: 0x8086a701 base: 0xfed00000
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: Core revision 20170831
+Feb 23 23:29:28 kramer kernel: [    0.000000] ACPI: 8 ACPI AML tables successfully acquired and loaded
+Feb 23 23:29:28 kramer kernel: [    0.056585] PM: Registering ACPI NVS region [mem 0x688c7000-0x688c7fff] (4096 bytes)
+Feb 23 23:29:28 kramer kernel: [    0.056585] PM: Registering ACPI NVS region [mem 0x76585000-0x7711ffff] (12169216 bytes)
+Feb 23 23:29:28 kramer kernel: [    0.057281] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+Feb 23 23:29:28 kramer kernel: [    0.057281] ACPI: bus type PCI registered
+Feb 23 23:29:28 kramer kernel: [    0.057281] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(Module Device)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(Processor Device)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(3.0 _SCP Extensions)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(Processor Aggregator Device)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(Linux-Dell-Video)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: EC: EC started
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: EC: interrupt blocked
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: \: Used as first EC
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: \: GPE=0x50, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Feb 23 23:29:28 kramer kernel: [    0.060007] ACPI: \: Used as boot ECDT EC to handle transactions
+Feb 23 23:29:28 kramer kernel: [    0.060318] ACPI Error: [_SB_.PCI0.RP01.PXSX] Namespace lookup failure, AE_NOT_FOUND (20170831/psargs-364)
+Feb 23 23:29:28 kramer kernel: [    0.060318] ACPI Error: Method parse/execution failed \, AE_NOT_FOUND (20170831/psparse-550)
+Feb 23 23:29:28 kramer kernel: [    0.060318] ACPI: Executed 22 blocks of module-level executable AML code
+Feb 23 23:29:28 kramer kernel: [    0.075876] ACPI: [Firmware Bug]: BIOS _OSI(Linux) query ignored
+Feb 23 23:29:28 kramer kernel: [    0.090383] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.090390] ACPI: SSDT 0xFFFF88F5BBEE2800 00061E (v02 PmRef  Cpu0Ist  00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.090863] ACPI: \_PR_.CPU0: _OSC native thermal LVT Acked
+Feb 23 23:29:28 kramer kernel: [    0.092297] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.092302] ACPI: SSDT 0xFFFF88F5BB951000 00037F (v02 PmRef  Cpu0Cst  00003001 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.092720] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.092724] ACPI: SSDT 0xFFFF88F5BD14EF00 00008E (v02 PmRef  Cpu0Hwp  00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.093040] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.093043] ACPI: SSDT 0xFFFF88F5BB944400 000130 (v02 PmRef  HwpLvt   00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.094183] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.094189] ACPI: SSDT 0xFFFF88F5BBEE7800 0005AA (v02 PmRef  ApIst    00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.094922] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.094925] ACPI: SSDT 0xFFFF88F5BB945000 000119 (v02 PmRef  ApHwp    00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.095344] ACPI: Dynamic OEM Table Load:
+Feb 23 23:29:28 kramer kernel: [    0.095348] ACPI: SSDT 0xFFFF88F5BB944A00 000119 (v02 PmRef  ApCst    00003000 INTL 20120913)
+Feb 23 23:29:28 kramer kernel: [    0.097783] ACPI: Interpreter enabled
+Feb 23 23:29:28 kramer kernel: [    0.097823] ACPI: (supports S0 S3 S4 S5)
+Feb 23 23:29:28 kramer kernel: [    0.097824] ACPI: Using IOAPIC for interrupt routing
+Feb 23 23:29:28 kramer kernel: [    0.097861] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Feb 23 23:29:28 kramer kernel: [    0.098565] ACPI: Enabled 7 GPEs in block 00 to 7F
+Feb 23 23:29:28 kramer kernel: [    0.101890] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.102075] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.102258] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.102439] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.102626] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.102685] ACPI: Power Resource [PC09] (on)
+Feb 23 23:29:28 kramer kernel: [    0.103790] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.103972] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.104158] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.104340] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.104589] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.104805] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.104984] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.105162] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.105341] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.105520] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.105700] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.105878] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.106057] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.106237] ACPI: Power Resource [WRST] (off)
+Feb 23 23:29:28 kramer kernel: [    0.120056] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+Feb 23 23:29:28 kramer kernel: [    0.155053] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155129] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 *10 11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155203] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155276] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155349] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155423] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155497] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.155572] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 10 *11 12 14 15)
+Feb 23 23:29:28 kramer kernel: [    0.156433] ACPI: EC: interrupt unblocked
+Feb 23 23:29:28 kramer kernel: [    0.156447] ACPI: EC: event unblocked
+Feb 23 23:29:28 kramer kernel: [    0.156459] ACPI: \_SB_.PCI0.LPCB.EC0_: GPE=0x50, EC_CMD/EC_SC=0x66, EC_DATA=0x62
+Feb 23 23:29:28 kramer kernel: [    0.156461] ACPI: \_SB_.PCI0.LPCB.EC0_: Used as boot DSDT EC to handle transactions and events
+Feb 23 23:29:28 kramer kernel: [    0.156690] ACPI: bus type USB registered
+Feb 23 23:29:28 kramer kernel: [    0.160025] PCI: Using ACPI for IRQ routing
+Feb 23 23:29:28 kramer kernel: [    0.197997] pnp: PnP ACPI init
+Feb 23 23:29:28 kramer kernel: [    0.198429] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.198529] pnp 00:01: Plug and Play ACPI device, IDs PNP0b00 (active)
+Feb 23 23:29:28 kramer kernel: [    0.198575] system 00:02: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.198724] system 00:03: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.198764] pnp 00:04: Plug and Play ACPI device, IDs ATK3001 PNP030b (active)
+Feb 23 23:29:28 kramer kernel: [    0.198980] system 00:05: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.199040] system 00:06: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.199377] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.200770] system 00:08: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 23 23:29:28 kramer kernel: [    0.201823] pnp: PnP ACPI: found 9 devices
+Feb 23 23:29:28 kramer kernel: [    0.906360] DMAR: ACPI device "device:6b" under DMAR at fed91000 as 00:15.0
+Feb 23 23:29:28 kramer kernel: [    0.906363] DMAR: ACPI device "device:6c" under DMAR at fed91000 as 00:15.1
+Feb 23 23:29:28 kramer kernel: [    0.913233] ACPI: AC Adapter [AC0] (on-line)
+Feb 23 23:29:28 kramer kernel: [    0.913299] ACPI: Lid Switch [LID]
+Feb 23 23:29:28 kramer kernel: [    0.913372] ACPI: Sleep Button [SLPB]
+Feb 23 23:29:28 kramer kernel: [    0.913439] ACPI: Power Button [PWRF]
+Feb 23 23:29:28 kramer kernel: [    0.915275] ACPI: Thermal Zone [THRM] (55 C)
+Feb 23 23:29:28 kramer kernel: [    0.921448] tpm_crb MSFT0101:00: [Firmware Bug]: ACPI region does not cover the entire command/response buffer. [mem 0xfed40000-0xfed4087f flags 0x200] vs fed40080 f80
+Feb 23 23:29:28 kramer kernel: [    0.922799] tpm_crb MSFT0101:00: [Firmware Bug]: ACPI region does not cover the entire command/response buffer. [mem 0xfed40000-0xfed4087f flags 0x200] vs fed40080 f80
+Feb 23 23:29:28 kramer kernel: [    0.927354] ACPI: Battery Slot [BAT0] (battery present)
+Feb 23 23:29:28 kramer kernel: [    1.750128] ACPI Warning: \_SB.PCI0.GFX0._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Feb 23 23:29:28 kramer kernel: [    1.750232] ACPI Warning: \_SB.PCI0.RP01.PEGP._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20170831/nsarguments-100)
+Feb 23 23:29:28 kramer kernel: [    3.158686] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Feb 23 23:29:28 kramer kernel: [    3.162294] ACPI: Video Device [PEGP] (multi-head: no  rom: yes  post: no)
+Feb 24 11:01:33 kramer kernel: [ 9758.498701] ACPI: EC: interrupt blocked
+Feb 24 11:01:33 kramer kernel: [ 9758.538656] ACPI: Preparing to enter system sleep state S3
+Feb 24 11:01:33 kramer kernel: [ 9758.553461] ACPI: EC: event blocked
+Feb 24 11:01:33 kramer kernel: [ 9758.553461] ACPI: EC: EC stopped
+Feb 24 11:01:33 kramer kernel: [ 9758.623091] ACPI: Low-level resume complete
+Feb 24 11:01:33 kramer kernel: [ 9758.623203] ACPI: EC: EC started
+Feb 24 11:01:34 kramer kernel: [ 9758.632505] ACPI: Waking up from system sleep state S3
+Feb 24 11:01:34 kramer kernel: [ 9758.654856] ACPI: EC: interrupt unblocked
+Feb 24 11:01:34 kramer kernel: [ 9758.703164] ACPI: EC: event unblocked
+Feb 24 11:01:34 kramer kernel: [ 9758.705504] ACPI: button: The lid device is not compliant to SW_LID.
+[[0;32m  OK  [0m] Started ACPI Events Check.
+[[0;32m  OK  [0m] Listening on ACPID Listen Socket.
+[[0;32m  OK  [0m] Started ACPI event daemon.

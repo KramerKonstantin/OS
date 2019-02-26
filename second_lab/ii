@@ -1,0 +1,15 @@
+#!/bin/bash
+
+inf="\\(II\\)"
+
+war="\\(WW\\)"
+
+infile="/var/log/Xorg.0.log"
+
+outfile="full.log"
+
+grep -E -s $war $infile | sed -E "s/$war/Warning: /" > $outfile
+
+grep -E -s $inf $infile | sed -E "s/$inf/Information: /" >> $outfile
+
+

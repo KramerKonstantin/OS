@@ -1,0 +1,7 @@
+#!/bin/bash
+
+outfile="errors.log"
+
+grep -E -s -r -h "^ACPI.*" /var/log/ > $outfile
+
+grep -E -s -r -h "^.*[[:alnum:]]\.[[:alpha:]]" /home/kramer/git/OS/second_lab/$outfile
