@@ -1,0 +1,10 @@
+#!/bin/bash
+
+outfile="problem4.txt"
+
+> $outfile
+
+for pid in $(ps -A -o pid | tail -n +2)
+do
+    echo "$pid:$(awk '{ print $3 - $2 }' /proc/$pid/statm || echo '?')" >> $outfile
+done
