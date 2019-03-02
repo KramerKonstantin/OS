@@ -1,13 +1,5 @@
 #!/bin/bash
 
-outfile="problem3.txt" 
+outfile="problem3.txt"
 
-> $outfile
-
-for i in $(ls /proc/ | grep "[0-9]\+")
-
-do
-
-echo $i | readlink /proc/$i/exe | grep "/sbin" | echo $i >> $outfile
-
-done
+ps ax -o pid,command | grep "/sbin/" | awk '{ print $1 }' > $outfile

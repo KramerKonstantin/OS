@@ -4,17 +4,17 @@ outfile="problem5.txt"
 
 status=""
 
-for pid in $(ps -A -o pid | tail -n +2)
+for pid in $(ps -A -o pid)
 
 do
 
-file="/proc/"$pid"/status"
+file1="/proc/"$pid"/status"
 
-file1="/proc/"$pid"/sched"
+file2="/proc/"$pid"/sched"
 
-ppid=$(grep -E -h -s -i "ppid:\s(.+)" $file | grep -o "[0-9]\+")
+ppid=$(grep -E -h -s -i "ppid:\s(.+)" $file1 | grep -o "[0-9]\+")
 
-sleepavg=$(grep -E -h -s -i "avg_atom(.+)" $file1 | grep -o "[0-9.]\+")
+sleepavg=$(grep -E -h -s -i "avg_atom(.+)" $file2 | grep -o "[0-9.]\+")
 
 if [[ -z $sleepavg ]]
 
@@ -22,7 +22,7 @@ then sleepavg=0
 
 fi
 
-if [[ $ppid != "" ]]
+if [[ -n $ppid ]]
 
 then status=$status"ProcessID="$pid" : Parent_ProcessID="$ppid" : Average_Sleeping_Time="$sleepavg$'\n'
 
@@ -30,4 +30,4 @@ fi
 
 done
 
-echo "$status" | sort -t " " -k2 > $outfile
+echo "$status" | sort -n -t "=" -k3 > $outfile
