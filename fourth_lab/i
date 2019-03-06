@@ -1,0 +1,7 @@
+#!/bin/bash
+
+date=$(date +"%F_%R")
+
+mkdir ~/test && echo "catalog test was created successfukky" > ~/report.tmp && touch ~/test/$date.tmp
+
+ping -c 1 www.net_nikogo.ru || echo "ERROR" >> ~/report.tmp
