@@ -2,5 +2,5 @@
 
 outfile="problem4.txt"
 
-ps -A -o pid | awk '{ file="/proc/"$1"/statm"; getline f<file; close (file); split(f, a); print $1, ":", a[2]-a[3] }' | sort -r -n -t ":" -k2 | awk '{ print $1 }' > $outfile
+ps -A -o pid | awk '{ file="/proc/"$1"/statm"; getline f<file; close (file); split(f, a); print $1, ":", a[2]-a[3] }' | sort -r -n -t ":" -k2 > $outfile
 
