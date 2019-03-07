@@ -1,0 +1,16 @@
+#!/bin/bash
+
+nice -n 0 ./problem_iv&pid1=$!
+
+nice -n 6 ./problem_iv&pid2=$!
+
+echo $pid1 $pid2
+
+top
+
+sleep 50
+
+kill $pid1
+
+kill $pid2
+
