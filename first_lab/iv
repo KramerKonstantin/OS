@@ -5,13 +5,9 @@ count=1
 read a
 
 while [[ "$a"%2 -ne 0 ]]
-
 do
-
-let count=$count+1
-
-read a
-
+	let count=$count+1
+	read a
 done
 
 echo "$count"

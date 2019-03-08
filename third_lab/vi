@@ -1,69 +1,45 @@
 #!/bin/bash
 
 outfile="problem6.txt"
-
 ppid=0
-
 sleepavg=0
-
 count=0
-
 returnvalue=""
 
 while read a
-
 do
+	if [[ -n $a ]]
+		then
+			ppidnext=$(echo $a | grep -E -h -s -i -o "Parent_ProcessID=[0-9]+" | grep -o "[0-9]\+")
+			sleepavgnext=$(echo $a | grep -E -h -s -i -o "Average_Sleeping_Time=[0-9.]+" | grep -o "[0-9.]\+")
 
-if [[ -n $a ]]
+			if [[ $ppid == $ppidnext ]]
+			then 
+				sleepavg=$(echo "$sleepavg+$sleepavgnext" | bc -l)
+				count=$(echo "$count+1" | bc -l)
+			else
+				sleepavg=$(echo "$sleepavg/$count" | bc -l)
+	
+				if [[ -n $returnvalue ]]
+				then
+					returnvalue=$returnvalue"Average_Sleeping_Children_of_ParentID="$ppid" is "$sleepavg$'\n'
+				fi
 
-then
+				sleepavg=$sleepavgnext
+				ppid=$ppidnext
+				count=1
+			fi
 
-ppidnext=$(echo $a | grep -E -h -s -i -o "Parent_ProcessID=[0-9]+" | grep -o "[0-9]\+")
-
-sleepavgnext=$(echo $a | grep -E -h -s -i -o "Average_Sleeping_Time=[0-9.]+" | grep -o "[0-9.]\+")
-
-if [[ $ppid == $ppidnext ]]
-
-then 
-
-sleepavg=$(echo "$sleepavg+$sleepavgnext" | bc -l)
-
-count=$(echo "$count+1" | bc -l)
-
-else
-
-sleepavg=$(echo "$sleepavg/$count" | bc -l)
-
-if [[ -n $returnvalue ]]
-
-then
-
-returnvalue=$returnvalue"Average_Sleeping_Children_of_ParentID="$ppid" is "$sleepavg$'\n'
-
-fi
-
-sleepavg=$sleepavgnext
-
-ppid=$ppidnext
-
-count=1
-
-fi
-
-returnvalue=$returnvalue$a$'\n'
-
-fi
+			returnvalue=$returnvalue$a$'\n'
+	fi
 
 done < problem5.txt
 
 sleepavg=$(echo "$sleepavg/$count" | bc -l)
 
 if [[ -n $returnvalue ]]
-
 then
-
-returnvalue=$returnvalue"Average_Sleeping_Children_of_ParentID="$ppid" is "$sleepavg$'\n'
-
+	returnvalue=$returnvalue"Average_Sleeping_Children_of_ParentID="$ppid" is "$sleepavg$'\n'
 fi
 
 echo "$returnvalue" > $outfile

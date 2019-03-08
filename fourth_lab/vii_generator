@@ -2,20 +2,20 @@
 
 while true
 do
-    read s
-    case $s in
-        "+")
-            kill -USR1 $(cat vii_problem)
-            ;;
-        "*")
-            kill -USR2 $(cat vii_problem)
-            ;;
-        TERM)
-            kill -SIGTERM $(cat vii_problem)
-            exit 0
-            ;;
-        *)
-            continue
-            ;;
-    esac
+	read s
+	case $s in
+		"+")
+			kill -USR1 $(cat vii_problem)
+			;;
+		"*")
+			kill -USR2 $(cat vii_problem)
+			;;
+		TERM)
+			kill -SIGTERM $(cat vii_problem)
+			exit 0
+			;;
+		*)
+			continue
+			;;
+	esac
 done
