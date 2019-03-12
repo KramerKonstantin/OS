@@ -1,14 +1,12 @@
 #!/bin/bash
 
-nice -n 0 ./problem_iv&pid1=$!
+nice -n 0 ./iv_problem&pid1=$!
 
-nice -n 6 ./problem_iv&pid2=$!
+nice -n 6 ./iv_problem&pid2=$!
 
 echo $pid1 $pid2
 
 top
-
-sleep 50
 
 kill $pid1
 
