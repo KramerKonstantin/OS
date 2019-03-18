@@ -1,14 +1,14 @@
 #!/bin/bash
 
-nice -n 0 ./iv_problem&pid1=$!
-
-nice -n 6 ./iv_problem&pid2=$!
+./iv_problem&pid1=$!
+./iv_problem&pid2=$!
 
 echo $pid1 $pid2
 
-top
+renice +10 $pid1
+
+sudo cpulimit -p $pid1 -l 20 
 
 kill $pid1
-
 kill $pid2
 
