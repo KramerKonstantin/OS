@@ -1,13 +1,9 @@
 #!/bin/bash
 
 echo "selecte action"
-
 echo "1 = nano"
-
 echo "2 = vi"
-
 echo "3 = links"
-
 echo "4 = exit"
 
 read a
