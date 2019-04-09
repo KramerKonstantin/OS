@@ -1,5 +1,4 @@
 set driverListFile=drivers.txt
-set 
 set sortedDriverListFile=sortedDrivers.txt
 
 driverquery /FO table /NH > %driverListFile%
