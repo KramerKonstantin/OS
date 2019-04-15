@@ -24,11 +24,12 @@ do
 		then
 			if [[ -d $(dirname $path/$name) ]]
 			then
-				while [[ -e $path/$name ]]
-				do
-					echo "File already exists. Enter new filename."
-					read name
-				done
+				if [[ -e $path/$name ]]
+				then
+					echo "File already exists."
+					rm $rmFile
+					exit 0
+				fi
 				ln $rmFile $path/$name
 			else
 				echo "$(dirname $path/$name) has been removed!"
