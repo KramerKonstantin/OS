@@ -1,23 +1,32 @@
 #!/bin/bash
 
-cd $HOME
+backupFolders=$(ls $HOME/*/ | grep -o -E "Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}")
 
-dateFiles=$(ls | grep -E "^Backup-" | sort -n | tail -1 | cut -d "-" -f 2,3,4)
+lastBackupFolder="$HOME/$(echo "$backupFolders" | tail -1)"
 
-if [[ ! -d restore ]]
+if [[ ! -d "$lastBackupFolder" ]]
 then
-	mkdir restore
+  	echo "No backup folders, aborting"
+  	exit
 fi
 
-cd "Backup-$dateFiles"
+cd "$lastBackupFolder"
 
-listInBackup=$(ls)
+files=$(find . -type f | grep -E -v ".[0-9]{4}-[0-9]{2}-[0-9]{2}")
 
-for i in $listInBackup
+restoreFolder="$HOME/restore/"
+
+if [[ ! -d "$restoreFolder" ]]
+then
+  	mkdir "$restoreFolder"
+fi
+
+echo "$files" | while read f
 do
-	filesNotToCopy=$(echo "$i" | grep -aoE '[A-Za-z0-9]{1,}-[0-9]{4}-[0-9]{2}-[0-9]{2}' )
-	if [[ $i != $filesNotToCopy ]]
+  	if [[ -d "$restoreFolder/$f" ]]
 	then
-		cp -R $i $HOME/restore
-	fi
+    		echo "Overwriting directory $restoreFolder$f with file $f"
+    		rm -rf "$restoreFolder/$f"
+  	fi
+  	cp --parents "$f" "$restoreFolder/"
 done

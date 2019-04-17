@@ -1,50 +1,72 @@
 #!/bin/bash
-cd $HOME
-dateFiles=$(ls | grep -E "^Backup-" | sort -n | tail -1 | cut -d "-" -f 2,3,4)
-ifCanmkdir=0
-dateNow=$(date +%Y-%m-%d)
 
-secondsPrev=$(date -d "$dateFiles" +%s)
-secondsNow=$(date -d "$dateNow" +%s )
-let ifCanmkdir=($secondsNow-$secondsPrev)/60/60/24
+backupFolders=$(ls $HOME/*/ | grep -o -E "Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}")
 
-if [[ ! -d $(ls | grep -E "^Backup-") ]]
-then 
-	let ifCanmkdir=10
+lastBackupDateInSeconds=0
+lastBackupFolder=""
+
+if [[ $backupFolders ]]
+then
+  	lastBackupFolder=$(echo "$backupFolders" | tail -1)
+  	lastBackupDate=$(echo "$lastBackupFolder" | grep -o -E "[0-9]{4}-[0-9]{2}-[0-9]{2}")
+  	lastBackupDateInSeconds=$(date -d $lastBackupDate +%s)
 fi
 
-if [[ $ifCanmkdir -gt 7 ]]
-then
-	mkdir "Backup-$dateNow"
-	cd ~/source 
-	listInSource=$(ls)
-	echo $listInSource
-		for i in $listInSource
-		do
-			cp -R $i $HOME/Backup-$dateNow
-		done
-	cd $HOME
-	echo "Directory Backup-$dateNow was created. Files:" >> backup-report
-	echo $listInSource >> backup-report
-else
-	cd ~/source 
-	listInSource=$(ls)
-	cd $HOME/Backup-$dateFiles
-	for i in $listInSource
-	do
-		if [[ -f $i ]]
-		then
-			sizeInSource=$(ls -l -- ~/source/$i | awk '{print$5}')
-			sizeInBackup=$(ls -l $i | awk '{print$5}')
-			if [[ $sizeInSource -ne $sizeInBackup ]]
-			then 
-				mv $i $i-$dateNow
-				cp -R -- ~/source/$i $HOME/Backup-$dateFiles
-				echo "rename $i to $i-$dateNow" >> $HOME/backup-report
-			fi
-		else
-			cp -R ~/source/$i $HOME/Backup-$dateFiles
-		fi
-	done
+currentDate=`date +%Y-%m-%d`
+currentDateInSeconds=$(date -d $currentDate +%s)
 
+backupFolder=""
+newFolderWasCreated=false
+
+if [[ $currentDateInSeconds -gt $lastBackupDateInSeconds+7*24*60*60 ]]
+then
+  	backupFolder="$HOME/Backup-$currentDate"
+  	mkdir $backupFolder
+  	newFolderWasCreated=true
+else
+  	backupFolder="$HOME/$lastBackupFolder"
+fi
+
+sourceFolder="$HOME/source"
+
+if [[ ! -d "$sourceFolder" ]]
+then
+	echo "No source folder, aborting"
+	exit
+fi
+
+reportFilename="$HOME/backup-report"
+
+cd "$sourceFolder"
+
+files=$(find . -type f)
+
+if [[ $newFolderWasCreated == true ]]
+then
+	echo "$backupFolder created at $currentDate" >> $reportFilename
+	echo "$files" | while read filename
+		do
+    			cp --parents "$filename" "$backupFolder/"
+    			echo "$filename copied to $backupFolder at $currentDate" >> $reportFilename
+  		done
+else
+	echo "$files" | while read filename
+		do
+    			if [[ -e "$backupFolder/$filename" ]]
+			then
+      				oldFileSize=$(stat -c%s "$backupFolder/$filename")
+      				newFileSize=$(stat -c%s "$sourceFolder/$filename")
+      
+      				if [[ $oldFileSize -ne $newFileSize ]]; then
+        				mv "$backupFolder/$filename" "$backupFolder/$filename.$currentDate"
+        				cp "$sourceFolder/$filename" "$backupFolder/$filename"
+        
+        				echo "$filename was renamed to $filename.$currentDate $currentDate" >> $reportFilename
+        				echo "$filename copied to $backupFolder at $currentDate" >> $reportFilename
+      				fi
+    			else
+      				cp --parents "$filename" "$backupFolder/"
+      				echo "$filename copied to $backupFolder at $currentDate" >> $reportFilename
+    			fi
+  		done
 fi
