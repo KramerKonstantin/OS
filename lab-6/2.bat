@@ -22,5 +22,3 @@ if %curMinute% LSS 10 (
 )
 
 schtasks /create /SC once /TN meTestTask /TR "C:\Users\asus\Desktop\OS\copy.bat" /ST %curHour%:%curMinute%
-
-TIMEOUT /T -1
