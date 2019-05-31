@@ -21,7 +21,7 @@ then
   	mkdir "$restoreFolder"
 fi
 
-echo "$files" | while read f
+for f in $files
 do
   	if [[ -d "$restoreFolder/$f" ]]
 	then

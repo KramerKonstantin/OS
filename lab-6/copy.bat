@@ -1,0 +1,1 @@
+xcopy /Z C:\Users\asus\Desktop\OS\File.txt C:\Users\asus\Desktop\OS\temp\
